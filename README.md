@@ -5,7 +5,6 @@
   🎓 Computer Engineering Student at University of Lleida <br>
   💻 React & Django Developer <br>
   🚀 Member of LleidaHack <br>
-  🌿 Nature lover • Peaceful mindset • Clean code advocate
 </p>
 
 
