@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="left">
-  🎓 Computer Engineering Student at University of Lleida <br>
-  💻 React & Django Developer <br>
-  🚀 Member of LleidaHack <br>
+  - 🎓 Computer Engineering Student at University of Lleida <br>
+  - 💻 React & Django Developer <br>
+  - 🚀 Member of LleidaHack <br>
 </p>
 
 <h3>Estadistiques</h3>
