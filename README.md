@@ -7,4 +7,5 @@
   🚀 Member of LleidaHack <br>
 </p>
 
-
+**Estadistiques:**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToniLopezLlao&theme=dracula)](https://git.io/streak-stats)
