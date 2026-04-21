@@ -4,7 +4,6 @@
 <p align="left">
   - 🎓 Computer Engineering Student at University of Lleida <br>
   - 💻 React & Django Developer <br>
-  - 🚀 Member of LleidaHack <br>
 </p>
 
 <h3>Estadistiques</h3>
