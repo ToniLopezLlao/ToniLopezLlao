@@ -11,7 +11,15 @@
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
   <legend align="left"><h3>👨‍💻 About Me</h3></legend>
+I’m a developer focused on crafting robust applications with Java and Modern JavaScript. My GitHub is a reflection of my journey—from mastering core data structures to building full-stack web solutions.
 
+🛠️ Current Tech Stack: JavaScript (ES6+), React, Next.js, Java.
+
+🔍 Current Focus: Performance optimization and clean architecture.
+
+🌱 Learning: Diving deeper into cloud infrastructures and DevOps workflows.
+
+I believe in writing code that is not just functional, but maintainable and elegant.
   <em>
 </p>
   </em> 
