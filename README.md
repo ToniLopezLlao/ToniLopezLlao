@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Toni López Llaó<img src="https://art.pixilart.com/thumb/sr283b8d5327ccf.png" width="50px"> </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
 <br><br>
@@ -22,11 +22,11 @@ I’m a developer focused on crafting robust applications with Java and Modern J
 
 - :school: I am a `Junior` at [Campus de Cappont](https://www.udl.cat/ca/localitzacio/cappont/) at [University of Lleida](https://www.udl.cat/ca/).
 
-- 🛠️ Current Tech Stack: JavaScript (ES6+), React, Next.js, Java.
+- :student: I’m currently learning: JavaScript, React, Next.js, Java, Python.
 
-- 🔍 Current Focus: Performance optimization and clean architecture.
+- :thinking: I’m currently open for a new `job opportunity`
 
-- 🌱 Learning: Diving deeper into cloud infrastructures and DevOps workflows.
+- :nerd_face: Always `learning new things`.
 
 I believe in writing code that is not just functional, but maintainable and elegant.
   <em>
