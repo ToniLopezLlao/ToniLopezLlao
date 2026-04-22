@@ -10,14 +10,18 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👨‍💻 About Me</h3></legend>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
 I’m a developer focused on crafting robust applications with Java and Modern JavaScript. My GitHub is a reflection of my journey—from mastering core data structures to building full-stack web solutions.
 
-🛠️ Current Tech Stack: JavaScript (ES6+), React, Next.js, Java.
+- :school: I am a `Junior` at [Campus de Cappont](https://www.udl.cat/ca/localitzacio/cappont/) at [University of Lleida](https://www.udl.cat/ca/).
 
-🔍 Current Focus: Performance optimization and clean architecture.
+- 🛠️ Current Tech Stack: JavaScript (ES6+), React, Next.js, Java.
 
-🌱 Learning: Diving deeper into cloud infrastructures and DevOps workflows.
+- 🔍 Current Focus: Performance optimization and clean architecture.
+
+- 🌱 Learning: Diving deeper into cloud infrastructures and DevOps workflows.
 
 I believe in writing code that is not just functional, but maintainable and elegant.
   <em>
