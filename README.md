@@ -1,18 +1,23 @@
-<h1 align="center">Hi, I'm Toni López Llaó<img src="" width="30px"> </h1>
-<h3 align="center">Computer Science Student | Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Toni López Llaó<img src="https://art.pixilart.com/thumb/sr283b8d5327ccf.png" width="50px"> </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 
+<br><br>
 <p align="center">
   <a href="mailto:tonilopez450@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/toni-lopez-llao-b67873252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+
+
+
+
 I’m a developer focused on crafting robust applications with Java and Modern JavaScript. My GitHub is a reflection of my journey—from mastering core data structures to building full-stack web solutions.
 
 - :school: I am a `Junior` at [Campus de Cappont](https://www.udl.cat/ca/localitzacio/cappont/) at [University of Lleida](https://www.udl.cat/ca/).
