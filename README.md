@@ -22,7 +22,7 @@ I’m a developer focused on crafting robust applications with Java and Modern J
 
 - :school: I am a `Junior` at [Campus de Cappont](https://www.udl.cat/ca/localitzacio/cappont/) at [University of Lleida](https://www.udl.cat/ca/).
 
-- :student: I’m currently learning: JavaScript, React, Next.js, Java, Python.
+- :student: I’m currently learning: LangChain, ChromaDB, RAG, MCP.
 
 - :thinking: I’m currently open for a new `job opportunity`
 
@@ -44,6 +44,7 @@ I believe in writing code that is not just functional, but maintainable and eleg
     <kbd>Back-end</kbd>
     <br>
     <br>
+	<img width="30px" src="https://miro.medium.com/v2/resize:fit:1044/1*d2XUNgrLw7687CDfXx9-Dw.png"/>    
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
@@ -64,6 +65,8 @@ I believe in writing code that is not just functional, but maintainable and eleg
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+	<img width="30px" src="https://tse2.mm.bing.net/th/id/OIP.SB2ZXE7YzXmsNd4GCi1GWQHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"/>
+	<img width="30px" src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png"/>
   </kbd>
   <kbd>
     <kbd>Outros</kbd>
